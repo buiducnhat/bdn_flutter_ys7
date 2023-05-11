@@ -1,0 +1,20 @@
+name: bdn_flutter_ys7
+description: A flutter package for using Ys7 Camera
+version: 0.0.1
+homepage: https://github.com/buiducnhat/bdn_flutter_ys7
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+  flutter: '>=1.17.0'
+
+dependencies:
+  dio: ^5.1.2
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
